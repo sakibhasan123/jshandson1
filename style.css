@@ -1,0 +1,22 @@
+h1{
+    width: 60%;
+    height: 80px;
+    background-color: aqua;
+  text-align: center;
+}
+
+h2{
+    width: 60%;
+    height: 30px;
+    background-color: lightcyan;
+  text-align: center; 
+}
+
+pre{
+    width: 60%;
+   
+    background-color: pink;
+  text-align: center; 
+}
+
+
