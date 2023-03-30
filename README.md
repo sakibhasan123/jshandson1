@@ -1,1 +1,1 @@
-# First JS Handson
+# JS Handson 1 (Operators & Expressions)
